@@ -13,7 +13,3 @@ Have Used<br>
 
 Tool<br>
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![aws](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white) ![swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)
-
-* * *
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bw-99&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
