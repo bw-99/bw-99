@@ -1,7 +1,7 @@
 
 ## 🎓 Education <br>
 2023.09-        M.S.  Computer Science and Engineering, SKKU <br>
-2018.03-2023.08 B.S.  Electrical Engineering, Double major in Computer Science and Engineering, SKKU <br>
+2018.03-2023.08 B.S.  Electrical and Electronic Engineering, Double major in Computer Science and Engineering, SKKU <br>
 
 ## 📚 Tech Stack<br>
 Studying<br>
