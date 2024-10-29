@@ -16,7 +16,7 @@ If you’re short on time, I recommend exploring it in reverse order: **Internsh
    [장병우_추가포트폴리오_인턴성과.pdf](./장병우_추가포트폴리오_인턴성과.pdf)
    
 2. **Transition Period** (Internship Preparation, 2024.08)  
-   [장병우_추가포트폴리오_전자제품거래_KKARROT.pdf](./장병우_추가포트폴리오_전자제품거래_KKARROT.pdf)
+   [장병우_추가포트폴리오_전자제품거래_KKARROT.pdf](./장병우_추가포트폴리오_전자제품거래플랫폼KKARROT.pdf)
    
 3. **Graduate Studies** (until 2024.08)  
    [포트폴리오.pdf](./포트폴리오.pdf)
